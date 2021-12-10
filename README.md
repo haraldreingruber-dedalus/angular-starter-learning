@@ -2,7 +2,7 @@
 
 This is the final state of the Group01 Dedalus team-learning session on Github Actions.
 
-Thanks for the nice learning spirit!
+Thanks for the contributions:
 * Benjamin
 * Mauro
 * Tsevtan
@@ -12,6 +12,14 @@ Thanks for the nice learning spirit!
 🎉🎉🎉🎉🎉🎉
 
 ➡ Check out the individual steps we commited during the session: https://github.com/ganatan/angular-starter/compare/681e47dde97b60b120ff8efdb7c9a7e445ac8d49...haraldreingruber-dedalus:cb9e8a3d9a8af4c760f076efb6f1cdf5daca5048
+
+
+## Credits
+The session content was based on a previous talk/demo by Sanjit Ropra
+https://github.com/sanjit-roopra/angular-starter-learning/
+
+Here are the slides to the talk:
+https://dedalusspa-my.sharepoint.com/:p:/g/personal/sanjit_roopra_dedalus_eu/EbGswfmlyZhEpUkIg7HoE7UB7B8Xc9qlNVpz68U1uPMvNw?e=MZXm1p
 
 
 Here is the original Readme of the starter project:
