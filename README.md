@@ -1,4 +1,5 @@
 # Github Actions Team Learning session
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/haraldreingruber-dedalus/angular-starter-learning)
 
 This is the final state of the Group01 Dedalus team-learning session on Github Actions.
 
@@ -11,7 +12,7 @@ Thanks for the contributions:
 
 🎉🎉🎉🎉🎉🎉
 
-➡ Check out the individual steps we commited during the session: https://github.com/ganatan/angular-starter/compare/681e47dde97b60b120ff8efdb7c9a7e445ac8d49...haraldreingruber-dedalus:cb9e8a3d9a8af4c760f076efb6f1cdf5daca5048
+➡ Check out the individual steps we commited during the session: [History](https://github.com/ganatan/angular-starter/compare/681e47dde97b60b120ff8efdb7c9a7e445ac8d49...haraldreingruber-dedalus:cb9e8a3d9a8af4c760f076efb6f1cdf5daca5048)
 
 
 ## Credits
