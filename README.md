@@ -1,3 +1,24 @@
+# Github Actions Team Learning session
+
+This is the final state of the Group01 Dedalus team-learning session on Github Actions.
+
+Thanks for the nice learning spirit!
+* Benjamin
+* Mauro
+* Tsevtan
+* Norbert
+* myself :-D
+
+🎉🎉🎉🎉🎉🎉
+
+
+
+
+
+Here is the original Readme of the starter project:
+
+
+
 # Angular 13 Example Starter
 
 <table>
