@@ -5,4 +5,5 @@
 * Create Dockerfile
 * Build Angular project in GHA
 * Optimization Idea: Cache npm modules
+* Run docker image in Azure
 * Which base image => Nginx
