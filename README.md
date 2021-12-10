@@ -11,8 +11,7 @@ Thanks for the nice learning spirit!
 
 🎉🎉🎉🎉🎉🎉
 
-
-
+➡ Check out the individual steps we commited during the session: https://github.com/ganatan/angular-starter/compare/681e47dde97b60b120ff8efdb7c9a7e445ac8d49...haraldreingruber-dedalus:cb9e8a3d9a8af4c760f076efb6f1cdf5daca5048
 
 
 Here is the original Readme of the starter project:
