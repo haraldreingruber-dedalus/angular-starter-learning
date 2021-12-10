@@ -22,7 +22,8 @@ Here are the slides to the talk:
 https://dedalusspa-my.sharepoint.com/:p:/g/personal/sanjit_roopra_dedalus_eu/EbGswfmlyZhEpUkIg7HoE7UB7B8Xc9qlNVpz68U1uPMvNw?e=MZXm1p
 
 
-Here is the original Readme of the starter project:
+*******************
+Original Readme of the starter project:
 
 
 
