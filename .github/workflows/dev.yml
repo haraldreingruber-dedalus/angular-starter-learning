@@ -28,4 +28,5 @@ jobs:
         with:
           push: true
           tags: haraldreingruberdedalus/angular-starter-team-learning-session:latest
+          context: .
       - run: echo "🍏 This job's status is ${{ job.status }}."
