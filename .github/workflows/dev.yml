@@ -32,6 +32,7 @@ jobs:
       - run: echo "🍏 This job's status is ${{ job.status }}."
   deploy:
     runs-on: ubuntu-latest
+    needs: Build
     steps:
       - name: Login to Azure
         uses: azure/aks-set-context@v1
