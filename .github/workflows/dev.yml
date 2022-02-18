@@ -5,6 +5,9 @@ on:
 jobs:
   Build:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [14, 15, 16]
     steps:
       - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
       - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
@@ -15,11 +18,11 @@ jobs:
       - run: echo "🖥️ The workflow is now ready to test your code on the runner."
       - uses: actions/setup-node@v2
         with:
-          node-version: '14'
+          node-version: ${{ matrix.node }}
       - name: Cache node modules
         uses: actions/cache@v2
         env:
-          node-version: '14'
+          node-version: ${{ matrix.node }}
           cache-name: cache-node-modules
         with:
           # npm cache files are stored in `~/.npm` on Linux/macOS
