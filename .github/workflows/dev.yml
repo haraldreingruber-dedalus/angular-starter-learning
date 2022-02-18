@@ -31,6 +31,6 @@ jobs:
             ${{ runner.os }}-
       - name: Build!
         run: |
-          npm ci
+          npm install
           npm run build
 
